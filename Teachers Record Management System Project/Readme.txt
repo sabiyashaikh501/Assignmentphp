@@ -1,4 +1,4 @@
-How to run the Teachers Record Management System (TRMS) Project
+How to run
 
 1. Download the zip file
 
@@ -14,7 +14,6 @@ How to run the Teachers Record Management System (TRMS) Project
 
 7.Run the script http://localhost/trms (frontend)
 
-Credential for admin panel :
-
+admin panel :
 Username: admin
 Password: Test@123
