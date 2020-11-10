@@ -12,7 +12,7 @@ How to run
 
 6. Import trms.sql file (given inside the zip package in SQL file folder)
 
-7.Run the script http://localhost/trms (frontend)
+7.Run the script http://localhost/trms/admin/index.php (frontend)
 
 admin panel :
 Username: admin
